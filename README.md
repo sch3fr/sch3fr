@@ -6,7 +6,7 @@ I'm sch3fr. CS student, test engineer, overall computer nerd. I just like to mes
     - designing 3D printed mechanical keyboard
     - tweaking my old projects
 - I am in the middle of Google certified cybersecurity course right now
-- Feel free to reach me if you feel like I might be helpful in any kind of way 🤠👌
+- Feel free to reach out to me if you feel like I might be helpful in any kind of way 🤠👌
 
 <!--
 **sch3fr/sch3fr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

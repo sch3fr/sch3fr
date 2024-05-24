@@ -5,7 +5,7 @@ I'm sch3fr. CS student, test engineer, overall computer nerd. I just like to mes
     - fixing up my website @ sch3fr.github.io
     - designing 3D printed mechanical keyboard
     - tweaking my old projects
-- I am in the middle of Google certified cybersecurity course right now
+- I just finished my semester, so I have a lot of time on my hands, hoping to use it well
 - Feel free to reach out to me if you feel like I might be helpful in any kind of way 🤠👌
 
 <!--
